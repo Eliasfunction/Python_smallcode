@@ -1,4 +1,3 @@
-//This is a simple crawler used in normal web pages.
 //Can used to find itemid.
 //web is shopee's Special page
 
