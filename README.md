@@ -1,9 +1,9 @@
 # Python_demo
 readme.txt
 
-Python爬蟲小專案
+Python爬蟲
 
-主要使用anaconda 爬蟲方式 字典
+使用anaconda 爬蟲方式 字典
 
 目標1 無爬蟲防護 Pchome24H
 結果  輸出 商品名稱 價格 商品照片直連路徑 
